@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadService", "DownloadService.csproj", "{CD1D958F-2FD5-34B0-0B2D-DFD7C70E6BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD1D958F-2FD5-34B0-0B2D-DFD7C70E6BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1D958F-2FD5-34B0-0B2D-DFD7C70E6BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1D958F-2FD5-34B0-0B2D-DFD7C70E6BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1D958F-2FD5-34B0-0B2D-DFD7C70E6BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF5EB00-CB31-4491-BA87-6637EE9B3ABC}
+	EndGlobalSection
+EndGlobal
