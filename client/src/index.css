@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.navfam{
+    font-family: "Bricolage Grotesque", sans-serif;
+}
